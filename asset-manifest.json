@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gihub.io/CS3366_builder/static/css/main.f855e6bc.css",
+    "main.js": "/gihub.io/CS3366_builder/static/js/main.b619f2e2.js",
+    "static/js/453.ad6eb26e.chunk.js": "/gihub.io/CS3366_builder/static/js/453.ad6eb26e.chunk.js",
+    "static/media/logo.svg": "/gihub.io/CS3366_builder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gihub.io/CS3366_builder/index.html",
+    "main.f855e6bc.css.map": "/gihub.io/CS3366_builder/static/css/main.f855e6bc.css.map",
+    "main.b619f2e2.js.map": "/gihub.io/CS3366_builder/static/js/main.b619f2e2.js.map",
+    "453.ad6eb26e.chunk.js.map": "/gihub.io/CS3366_builder/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b619f2e2.js"
+  ]
+}
